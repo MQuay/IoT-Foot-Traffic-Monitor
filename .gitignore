@@ -7,3 +7,4 @@ secrets/
 .ebextensions/
 .elasticbeanstalk/
 .ebignore
+demo/
