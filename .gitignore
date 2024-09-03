@@ -1,0 +1,9 @@
+*venv
+__pycache__
+envs
+.env
+deploy.zip
+secrets/
+.ebextensions/
+.elasticbeanstalk/
+.ebignore
